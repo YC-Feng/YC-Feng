@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yu-Cheng Feng
+- 👋 Hi, I’m Peter
 - 👀 I’m interested in Machine Learning, Deep Learning, and Data Analysis
 - 👀 Also interested in C#/.Net Development
 - 🌱 I’m currently learning Data Science
